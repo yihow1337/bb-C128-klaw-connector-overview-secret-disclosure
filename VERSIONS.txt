@@ -1,0 +1,9 @@
+repo=https://github.com/Aiven-Open/klaw
+commit=f1c24b9d3c8a079dba0a54e7713a09fdd43a974b
+describe=v2.10.6-1-gf1c24b9
+java=openjdk version "21.0.13" 2026-10-20 LTS
+JAVA_HOME=/workspace/bounty-research/tools/jdk-21.0.13+9
+tested_at=2026-11-02T07:40:40+08:00
+platform=Bugcrowd (aiven-mbb-og / Aiven)
+asset=Aiven-Open/klaw (OSS in Bugcrowd Aiven scope)
+submit_note=Aiven weekly Bugcrowd submission limit reached — package only; do NOT submit this week without user approval
